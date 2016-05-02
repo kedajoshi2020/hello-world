@@ -1,1 +1,1 @@
-Sample Text Document.
+New Sample Text Document.
